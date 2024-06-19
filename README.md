@@ -58,16 +58,41 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AkhilRai28&style=flat-square&color=blue)
 
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhilRai28&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkhilRai28&theme=radical)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkhilRai28&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Activity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkhilRai28&theme=dark)
+
+##
+
+# Welcome to My GitHub Profile!
+
+![Profile Views](https://komarev.com/ghpvc/?username=AkhilRai28&style=flat-square&color=blue)
+
 <div style="display: flex; justify-content: space-between;">
 
-  ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhilRai28&show_icons=true&theme=radical&hide_border=true)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AkhilRai28&show_icons=true&theme=radical" />
+  </a>
 
   <div>
-    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkhilRai28&theme=radical&hide_border=true)
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=AkhilRai28&theme=radical" />
+    </a>
 
-    [![trophy](https://github-profile-trophy.vercel.app/?username=AkhilRai28&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img height="180" src="https://github-profile-trophy.vercel.app/?username=AkhilRai28&theme=radical" />
+    </a>
 
-    ![Activity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkhilRai28&theme=dark&hide_border=true)
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkhilRai28&theme=dark" />
+    </a>
   </div>
 
 </div>
+
+
+
