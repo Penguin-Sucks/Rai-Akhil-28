@@ -52,3 +52,22 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilRai28&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+
+# Welcome to My GitHub Profile!
+
+![Profile Views](https://komarev.com/ghpvc/?username=AkhilRai28&style=flat-square&color=blue)
+
+<div style="display: flex; justify-content: space-between;">
+
+  ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhilRai28&show_icons=true&theme=radical&hide_border=true)
+
+  <div>
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkhilRai28&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+    [![trophy](https://github-profile-trophy.vercel.app/?username=AkhilRai28&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+    ![Activity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkhilRai28&theme=dark&hide_border=true)
+  </div>
+
+</div>
