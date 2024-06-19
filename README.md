@@ -43,3 +43,12 @@
 ![Code Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Rai-Akhil-28&langs_count=10&theme=dark)
 
 ![Activity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rai-Akhil-28&theme=dark)
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AkhilRai28" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilRai28&layout=compact&langs_count=8&card_width=320" />
+</a>
