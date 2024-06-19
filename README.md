@@ -63,7 +63,7 @@
   ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhilRai28&show_icons=true&theme=radical&hide_border=true)
 
   <div>
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkhilRai28&theme=radical&hide_border=true)](https://git.io/streak-stats)
+    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkhilRai28&theme=radical&hide_border=true)
 
     [![trophy](https://github-profile-trophy.vercel.app/?username=AkhilRai28&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
