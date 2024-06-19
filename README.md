@@ -28,7 +28,7 @@
 
 ![GitHub Gists](https://github-readme-stats.vercel.app/api/gist?username=Rai-Akhil-28&theme=dark)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Rai-Akhil-28&theme=react-dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Pull Request Stats](https://github-readme-stats.vercel.app/api/pin/?username=Rai-Akhil-28&repo=github-readme-stats&theme=dark)
 
