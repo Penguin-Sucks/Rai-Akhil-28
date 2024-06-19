@@ -82,11 +82,13 @@
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=AkhilRai28&theme=radical" />
     </a>
-
+  </div>
+  <div>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img height="180" src="https://github-profile-trophy.vercel.app/?username=AkhilRai28&theme=radical" />
     </a>
-
+  </div>
+  <div>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
       <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkhilRai28&theme=dark" />
     </a>
