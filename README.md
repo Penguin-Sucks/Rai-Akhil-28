@@ -62,7 +62,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ritii-13&theme=radical)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ritii-13&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ritii-13)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Activity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkhilRai28&theme=dark)
 
