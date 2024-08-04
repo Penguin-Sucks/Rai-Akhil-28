@@ -16,14 +16,14 @@ Hi, I'm **Akhil Rai**, a final-year student at Sardar Vallabhbhai National Insti
 
 ## 🔧 Technical Skills
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Robotics & Automation
 - Robot Operating System (ROS, ROS2)
@@ -32,25 +32,25 @@ Hi, I'm **Akhil Rai**, a final-year student at Sardar Vallabhbhai National Insti
 - Kinematics, Trajectory Planning, Autonomous Algorithms
 
 ### Machine Learning & Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Hardware & Embedded Systems
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![STM32](https://img.shields.io/badge/-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ### Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitLab](https://img.shields.io/badge/-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Unix](https://img.shields.io/badge/-000000?style=for-the-badge&logo=unix&logoColor=white)
+![Linux](https://img.shields.io/badge/-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Languages
 - Hindi (Native or Bilingual)
@@ -58,43 +58,16 @@ Hi, I'm **Akhil Rai**, a final-year student at Sardar Vallabhbhai National Insti
 - Sanskrit (Limited Working)
 - German (Elementary)
 
-## 🏆 Highlighted Achievements
-### International Rover Challenge 2024
-**Top 17 Internationally**  
-Led a team to secure 17th place in a competition involving over 1,000 students, demonstrating exceptional leadership and technical skills.
-
-### ISRO Robotics Challenge 2024
-**Top 20 Nationally**  
-Led a team of 10, achieving a top 20 ranking nationally out of over 5000 participants by designing and developing an autonomous navigation algorithm for a rover and 6-DOF manipulator.
-
-### GUJCOST - Robofest 3.0
-**1st Place Nationally**  
-Led a team of 5 to design and develop two award-winning rovers, showcasing superior robotics engineering and autonomous navigation skills.
-
-### Google Winter of Code 2024
-**Top 4 Regional**  
-Designed a responsive Sting Art website using React, Node.js, TypeScript, Appwrite, MongoDB, and Express.
-
-### Smart India Hackathon
-**National Finalist**  
-Developed a pioneering Flutter and Dart application using AI/ML, OpenCV, and TensorFlow for rapid crop disease diagnosis.
-
-## 📘 Education
-### Bachelor of Technology (BTech) in Electronics and Communications Engineering
-**Sardar Vallabhbhai National Institute of Technology, Surat**  
-**CGPA:** 8.31 (Expected Graduation: June 2026)
-
-### Intermediate Science (PCM)
-**Kendriya Vidyalaya**  
-**Percentage:** 95.2 (2022)
-
-### High School
-**St. Francis School, Indirapuram**  
-**Percentage:** 93.6 (2020)
+## 🏆 Achievements
+- 🥇 **Top 17 Internationally** - International Rover Challenge 2024
+- 🥈 **Top 20 Nationally** - ISRO Robotics Challenge 2024
+- 🥉 **1st Place Nationally** - GUJCOST - Robofest 3.0
+- 🌟 **Top 4 Regional** - Google Winter of Code 2024
+- 🏅 **National Finalist** - Smart India Hackathon
 
 ## 📜 Certifications
-- **Google Cloud Computing Foundations Certificate** (2024)
-- **Machine Learning Specialization** - Talent Battle (2024)
+- 📄 **Google Cloud Computing Foundations Certificate** (2024)
+- 🧠 **Machine Learning Specialization** - Talent Battle (2024)
 
 ## 💻 Key Projects
 ### Autonomous Robotic Arm
@@ -126,11 +99,11 @@ I am enthusiastic about collaborative projects and research opportunities in rob
 ⭐️ From [AkhilRai28](https://github.com/AkhilRai28)
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-rai-10686928b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raiakhil2802@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13894996/akhil-rai)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkhilRai28)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AkhilRai28)
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-rai-10686928b/)
+[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raiakhil2802@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13894996/akhil-rai)
+[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkhilRai28)
+[![Twitter](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AkhilRai28)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilRai28&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilRai28&show_icons=true&theme=dark)
