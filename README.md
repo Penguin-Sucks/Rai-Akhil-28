@@ -107,5 +107,4 @@ I am enthusiastic about collaborative projects and research opportunities in rob
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilRai28&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkhilRai28&show_icons=true&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adititapariya&show_icons=true&theme=dark)
 
