@@ -52,12 +52,6 @@ Hi, I'm **Akhil Rai**, a final-year student at Sardar Vallabhbhai National Insti
 ![Ubuntu](https://img.shields.io/badge/-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Languages
-- Hindi (Native or Bilingual)
-- English (Full Professional)
-- Sanskrit (Limited Working)
-- German (Elementary)
-
 ## 🏆 Achievements
 - 🥇 **Top 17 Internationally** - International Rover Challenge 2024
 - 🥈 **Top 20 Nationally** - ISRO Robotics Challenge 2024
@@ -69,26 +63,6 @@ Hi, I'm **Akhil Rai**, a final-year student at Sardar Vallabhbhai National Insti
 - 📄 **Google Cloud Computing Foundations Certificate** (2024)
 - 🧠 **Machine Learning Specialization** - Talent Battle (2024)
 
-## 💻 Key Projects
-### Autonomous Robotic Arm
-Developed a sophisticated robotic arm with vision-based control capabilities, integrating advanced hardware and software for real-time object manipulation.  
-**Technologies Used:** ROS, ROS2, Python, Computer Vision, MoveIt-2, STM-32  
-[GitHub Link](https://github.com/AkhilRai28/Robotic-Arms)
-
-### Martian Rover
-Engineered an autonomous rover for Martian exploration, focusing on seamless communication and efficient navigation.  
-**Technologies Used:** ROS, Lidar, Autonomous Navigation, Raspberry Pi, Arduino  
-[GitHub Link](https://github.com/AkhilRai28/Mars-Rover)
-
-### Live Website-GUI
-Developed a web application for real-time sensor data from rovers and robotic arms, integrating live camera feeds using JavaScript and Python.  
-**Technologies Used:** JavaScript, Python, GCP  
-[GitHub Link](https://github.com/AkhilRai28/Web-GUI)
-
-### Object Recognition
-Implemented Python code using OpenCV for real-time arrow detection, achieving 90% accuracy.  
-**Technologies Used:** Python, OpenCV  
-[GitHub Link](https://github.com/AkhilRai28/Arrow-Detection)
 
 ## 🌱 Continuous Learning
 I am dedicated to staying at the forefront of robotics, machine learning, and software development, continuously enhancing my skills and knowledge to keep up with the latest advancements in technology.
@@ -97,7 +71,6 @@ I am dedicated to staying at the forefront of robotics, machine learning, and so
 I am enthusiastic about collaborative projects and research opportunities in robotics, software development, and related fields. Feel free to reach out to me through email or LinkedIn.
 
 ⭐️ From [AkhilRai28](https://github.com/AkhilRai28)
-
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-rai-10686928b/)
 [![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raiakhil2802@gmail.com)
