@@ -1,30 +1,114 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Akhil Rai</h1>
-<h3 align="center"> </h3>
+<!-- Profile README.md -->
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<div align="center">
+  <img src="https://yourimageurl.com/banner.png" alt="Banner" style="width: 100%; height: auto;">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
-
-- ⚡ Fun fact **I am funny😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashutosh mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
+<p align="center">
+  <strong>Full Stack Engineer</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  I am a passionate Full Stack Engineer with a strong background in web development and a knack for problem-solving. Over the past <strong>[X]</strong> years, I have honed my skills in building dynamic, responsive, and scalable web applications. My expertise spans both front-end and back-end technologies, and I love bringing creative ideas to life through code.
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
+<h2 align="center">🛠️ Skills & Technologies</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
+<table align="center">
+  <tr>
+    <td align="center"><strong>Front-End</strong></td>
+    <td align="center"><strong>Back-End</strong></td>
+    <td align="center"><strong>Databases</strong></td>
+    <td align="center"><strong>Others</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+      <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+      <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+      <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+      <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+      <img src="https://img.icons8.com/color/48/000000/express.png"/>
+      <img src="https://img.icons8.com/color/48/000000/django.png"/>
+      <img src="https://img.icons8.com/color/48/000000/rails.png"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+      <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
+      <img src="https://img.icons8.com/color/48/000000/api-settings.png"/>
+      <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+      <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
+<h2 align="center">🚀 Projects</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
+<div align="center">
+  <p>
+    <strong><a href="https://github.com/yourusername/awesome-web-app">Project 1: Awesome Web App</a></strong><br>
+    A responsive web application built with React and Node.js that allows users to [brief description]. It features [key features] and integrates with [APIs/services].
+  </p>
+  <p>
+    <strong><a href="https://github.com/yourusername/e-commerce-platform">Project 2: E-commerce Platform</a></strong><br>
+    An e-commerce platform developed using Django and React. It includes functionalities such as [key features], enabling users to [actions users can perform].
+  </p>
+  <p>
+    <strong><a href="https://github.com/yourusername/devops-dashboard">Project 3: DevOps Dashboard</a></strong><br>
+    A dashboard for monitoring and managing DevOps pipelines, built with Angular and Express.js. It provides real-time analytics and seamless integration with [tools/services].
+  </p>
+</div>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile Views"/>
+</div>
+
+<h2 align="center">📫 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.icons8.com/color/48/000000/twitter-squared.png" alt="Twitter"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"/>
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio"/>
+  </a>
+</p>
+
+<h2 align="center">🎉 Fun Facts</h2>
+
+<ul align="center" style="list-style: none;">
+  <li>🎨 I love painting and often draw inspiration for my designs from my artwork.</li>
+  <li>🌍 I enjoy traveling and have visited [number] countries so far.</li>
+  <li>🧗‍♂️ In my free time, you can find me rock climbing or hiking in the mountains.</li>
+</ul>
+
+---
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/yourusername">[Your Username]</a>
+</p>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Add any JavaScript interactivity here if needed
+  });
+</script>
