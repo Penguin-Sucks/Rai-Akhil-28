@@ -102,3 +102,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkhilRai28&repo=github-readme-stats)](https://github.com/AkhilRai28/Robotic-Bot)
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+
+[![hugovk's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhilRai28&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
