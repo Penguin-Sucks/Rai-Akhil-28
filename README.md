@@ -1,48 +1,48 @@
 ### Hi there 👋, I'm Akhil Rai
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rai-Akhil-28&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Penguin-Sucks&style=flat-square)
 
 ## 🛠️ My Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rai-Akhil-28&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Penguin-Sucks&layout=compact&theme=dark)
 
 ## 📊 GitHub Profile Stats
 
-![Akhil Rai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rai-Akhil-28&show_icons=true&theme=dark)
+![Akhil Rai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Penguin-Sucks&show_icons=true&theme=dark)
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Rai-Akhil-28&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Penguin-Sucks&theme=onedark)
 
 ## 🔥 GitHub Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rai-Akhil-28&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Penguin-Sucks&theme=dark)
 
 ## 🚀 More GitHub Stats
 
-![Commit Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rai-Akhil-28&show_icons=true&locale=en&layout=compact&theme=dark)
+![Commit Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Penguin-Sucks&show_icons=true&locale=en&layout=compact&theme=dark)
 
-![Repos per Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Rai-Akhil-28&hide=css,java,html&layout=compact&langs_count=6&theme=dark)
+![Repos per Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Penguin-Sucks&hide=css,java,html&layout=compact&langs_count=6&theme=dark)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rai-Akhil-28&theme=dark)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Penguin-Sucks&theme=dark)
 
-![GitHub Gists](https://github-readme-stats.vercel.app/api/gist?username=Rai-Akhil-28&theme=dark)
+![GitHub Gists](https://github-readme-stats.vercel.app/api/gist?username=Penguin-Sucks&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilRai28&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-![Pull Request Stats](https://github-readme-stats.vercel.app/api/pin/?username=Rai-Akhil-28&repo=github-readme-stats&theme=dark)
+![Pull Request Stats](https://github-readme-stats.vercel.app/api/pin/?username=Penguin-Sucks&repo=github-readme-stats&theme=dark)
 
-![Issues Stats](https://github-readme-stats.vercel.app/api/pin/?username=Rai-Akhil-28&repo=github-readme-streak-stats&theme=dark)
+![Issues Stats](https://github-readme-stats.vercel.app/api/pin/?username=Penguin-Sucks&repo=github-readme-streak-stats&theme=dark)
 
-![Star History](https://github-readme-stats.vercel.app/api/star-history/?username=Rai-Akhil-28&theme=dark)
+![Star History](https://github-readme-stats.vercel.app/api/star-history/?username=Penguin-Sucks&theme=dark)
 
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Rai-Akhil-28&repo=github-profile-trophy&theme=dark)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=Penguin-Sucks&repo=github-profile-trophy&theme=dark)
 
-![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=Rai-Akhil-28&theme=dark)
+![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=Penguin-Sucks&theme=dark)
 
-![Code Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Rai-Akhil-28&langs_count=10&theme=dark)
+![Code Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Penguin-Sucks&langs_count=10&theme=dark)
 
-![Activity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rai-Akhil-28&theme=dark)
+![Activity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Penguin-Sucks&theme=dark)
 
 
 
